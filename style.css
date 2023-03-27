@@ -5,3 +5,9 @@ body{
 header{
     top: 0;  
 }
+
+h1{
+    font-family: 'Open sans', sans-serif;
+    font-weight: lighter;
+    font-size: 600px;
+}
